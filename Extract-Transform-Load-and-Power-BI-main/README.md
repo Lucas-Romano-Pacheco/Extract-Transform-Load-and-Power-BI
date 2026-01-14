@@ -25,5 +25,3 @@ Dicionário de dados, explicação dos tratamentos realizados e registro dos pai
 
 
 
-Palavras-chave: Salão de beleza. Modelagem Dimensional. Business Intelligence. ETL. Pentaho Data Integration. Power BI.
-
